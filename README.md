@@ -1,2 +1,2 @@
-# classC-34
-Linking database with the game
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
